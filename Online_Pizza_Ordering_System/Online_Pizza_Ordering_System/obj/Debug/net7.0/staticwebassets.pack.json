@@ -1,0 +1,397 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Online_Pizza_Ordering_System.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Online_Pizza_Ordering_System.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\Uploads\\07bcb94c-0ff1-4940-8cc4-f824a320f159.png",
+      "PackagePath": "staticwebassets\\Uploads\\07bcb94c-0ff1-4940-8cc4-f824a320f159.png"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\Uploads\\0963868e-d3a2-4019-a05b-6e03c196d510.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\0963868e-d3a2-4019-a05b-6e03c196d510.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\Uploads\\12b20a0a-b09b-4eb7-8ed2-afd93fb35b0e.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\12b20a0a-b09b-4eb7-8ed2-afd93fb35b0e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\Uploads\\16900e41-791e-4886-a310-ace5e9fe01cb.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\16900e41-791e-4886-a310-ace5e9fe01cb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\Uploads\\1bd2052c-2baf-435e-a568-ab4d3999d165.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\1bd2052c-2baf-435e-a568-ab4d3999d165.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\Uploads\\20e47a64-0461-4ef3-8ee0-ba7ee9e708ca.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\20e47a64-0461-4ef3-8ee0-ba7ee9e708ca.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\Uploads\\2e9b8723-4c01-4614-9f36-a40f5605628e.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\2e9b8723-4c01-4614-9f36-a40f5605628e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\Uploads\\36f00606-1a7d-412a-a5ce-bd5ddcb429ea.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\36f00606-1a7d-412a-a5ce-bd5ddcb429ea.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\Uploads\\38bde839-ca15-4c8c-8214-e2eff878b2db.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\38bde839-ca15-4c8c-8214-e2eff878b2db.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\Uploads\\3a2d79d2-5eea-435f-a01e-2e6cbd637c00.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\3a2d79d2-5eea-435f-a01e-2e6cbd637c00.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\Uploads\\402e3421-5aef-4143-b99b-d5ba480b5a1a.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\402e3421-5aef-4143-b99b-d5ba480b5a1a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\Uploads\\43b286f6-2a80-499e-9b31-ab19b73ef964.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\43b286f6-2a80-499e-9b31-ab19b73ef964.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\Uploads\\4732c121-3dfb-4f4c-b5ec-8d815b247128.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\4732c121-3dfb-4f4c-b5ec-8d815b247128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\Uploads\\47e1c6ae-7d71-4b34-a839-08b82a59cf9b.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\47e1c6ae-7d71-4b34-a839-08b82a59cf9b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\Uploads\\6db922e5-897c-42f0-bc2f-8f2bbca1eb6d.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\6db922e5-897c-42f0-bc2f-8f2bbca1eb6d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\Uploads\\773e3442-aae8-44c1-9580-d7eec1865c15.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\773e3442-aae8-44c1-9580-d7eec1865c15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\Uploads\\79782713-4146-4f51-b361-0c6dd478c52b.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\79782713-4146-4f51-b361-0c6dd478c52b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\Uploads\\8130fdd7-52f0-4ac1-96b2-fb5b6e866452.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\8130fdd7-52f0-4ac1-96b2-fb5b6e866452.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\Uploads\\83a408bc-3943-4bcb-9edb-1dba74e6b36f.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\83a408bc-3943-4bcb-9edb-1dba74e6b36f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\Uploads\\892bd26a-fa7c-44e4-85ae-00b1f1a73c90.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\892bd26a-fa7c-44e4-85ae-00b1f1a73c90.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\Uploads\\8a5171df-ce40-416e-b749-00e08526eeee.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\8a5171df-ce40-416e-b749-00e08526eeee.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\Uploads\\8e0f6ed2-1d0d-43a0-8d7d-3ade14ee4823.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\8e0f6ed2-1d0d-43a0-8d7d-3ade14ee4823.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\Uploads\\9682253a-08f1-42ab-bd08-14d1ab09e8ec.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\9682253a-08f1-42ab-bd08-14d1ab09e8ec.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\Uploads\\a1b0b38a-1e6d-41d7-9871-6bfe0fef00c5.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\a1b0b38a-1e6d-41d7-9871-6bfe0fef00c5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\Uploads\\a6563653-406b-4faa-8095-a6c23beb6f8e.png",
+      "PackagePath": "staticwebassets\\Uploads\\a6563653-406b-4faa-8095-a6c23beb6f8e.png"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\Uploads\\a728a56d-85df-4fa3-98fb-ddd99a46f6fd.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\a728a56d-85df-4fa3-98fb-ddd99a46f6fd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\Uploads\\b58210aa-6795-4eed-9402-8c893fc81c6b.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\b58210aa-6795-4eed-9402-8c893fc81c6b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\Uploads\\bdc16bd2-b8f4-4a7b-8ea5-d83eaaa3604c.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\bdc16bd2-b8f4-4a7b-8ea5-d83eaaa3604c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\Uploads\\be808d61-6129-44e1-b45c-f4c8c3d4b550.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\be808d61-6129-44e1-b45c-f4c8c3d4b550.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\Uploads\\cecb7b03-d15b-460d-962a-79d75934c1e1.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\cecb7b03-d15b-460d-962a-79d75934c1e1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\Uploads\\e6e1cb0a-e19d-4a7d-9b46-5d5bd5e3adcd.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\e6e1cb0a-e19d-4a7d-9b46-5d5bd5e3adcd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\Uploads\\f93317f5-7cea-4c30-912e-cd5e25095939.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\f93317f5-7cea-4c30-912e-cd5e25095939.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\Uploads\\fafcd302-402e-466d-a95d-833cad9e534d.png",
+      "PackagePath": "staticwebassets\\Uploads\\fafcd302-402e-466d-a95d-833cad9e534d.png"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ak900\\Downloads\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\Online_Pizza_Ordering_System\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Online_Pizza_Ordering_System.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Online_Pizza_Ordering_System.props",
+      "PackagePath": "build\\Online_Pizza_Ordering_System.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Online_Pizza_Ordering_System.props",
+      "PackagePath": "buildMultiTargeting\\Online_Pizza_Ordering_System.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Online_Pizza_Ordering_System.props",
+      "PackagePath": "buildTransitive\\Online_Pizza_Ordering_System.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
